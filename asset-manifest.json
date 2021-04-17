@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/FormSubmitEventHeading/static/js/main.eafc88f0.chunk.js",
+    "main.js.map": "/FormSubmitEventHeading/static/js/main.eafc88f0.chunk.js.map",
+    "runtime-main.js": "/FormSubmitEventHeading/static/js/runtime-main.a5dd3e02.js",
+    "runtime-main.js.map": "/FormSubmitEventHeading/static/js/runtime-main.a5dd3e02.js.map",
+    "static/js/2.2a39ecbe.chunk.js": "/FormSubmitEventHeading/static/js/2.2a39ecbe.chunk.js",
+    "static/js/2.2a39ecbe.chunk.js.map": "/FormSubmitEventHeading/static/js/2.2a39ecbe.chunk.js.map",
+    "index.html": "/FormSubmitEventHeading/index.html",
+    "static/js/2.2a39ecbe.chunk.js.LICENSE.txt": "/FormSubmitEventHeading/static/js/2.2a39ecbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5dd3e02.js",
+    "static/js/2.2a39ecbe.chunk.js",
+    "static/js/main.eafc88f0.chunk.js"
+  ]
+}
